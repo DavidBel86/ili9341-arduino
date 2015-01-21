@@ -1,0 +1,4 @@
+#define END    0x00
+#define CMD    0x01
+#define DATA   0x02
+#define DELAY  0x03
